@@ -1,6 +1,11 @@
-# Synthesis infrastructures workshop @CSCW2022
+# Growing New Scholarly Communication Infrastructures for Sharing, Reusing, and Synthesizing Knowledge
+### An all-virtual workshop at [CSCW 2022](https://cscw.acm.org/2022/)
 
 Sharing, reuse, and synthesis of knowledge is central to the research process. These core functions are in theory served by the system of monographs, abstracts, and papers in journals and proceedings, with citation indices and search databases that comprise the core of our formal scholarly communication infrastructure; yet, converging lines of empirical and anecdotal evidence suggest that this system does not adequately act as infrastructure for synthesis. Emerging developments in new institutions for science, along with new technical infrastructures and tooling for decentralized knowledge work, offer new opportunities to prototype new technical infrastructures on top of a different installed base than the publish or perish, neoliberal academy. This workshop aims to integrate these developments and communities with CSCW's deep roots in knowledge infrastructures and collaborative and distributed sensemaking, with new developments in science institutions and tooling, to stimulate and accelerate progress towards prototyping new scholarly communication infrastructures that are actually optimized for sharing, reusing, and synthesizing knowledge.
+
+## Contents
+
+{:toc}
 
 ## Background
 
