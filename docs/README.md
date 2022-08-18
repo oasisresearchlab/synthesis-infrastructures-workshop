@@ -66,7 +66,7 @@ We invite prospective participants to submit materials for consideration, approp
 
 We invite participants to self-identify along these broad categories, according to how they wish to participate in the workshop.
 
-Submissions will be accepted at the following [submission form]().
+Submissions will be accepted at the following [submission form](https://forms.gle/UfDgy8PsAeQkqLX8A).
 
 These submissions will be considered by the organizers according to criteria of relevance for the core workshop themes, as well as balance across communities of research, tooling, and practice. Accepted submissions will then be curated into a shared github repository of materials. Prior to the workshop, participants will comment on and iterate on the ideas and resources in the repository. The materials in this repository will serve as important context and resources to fuel impactful collaborative work during the workshop.
 
