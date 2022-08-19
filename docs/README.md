@@ -2,6 +2,10 @@
 
 *An all-virtual workshop at [CSCW 2022](https://cscw.acm.org/2022/)*
 
+<!-- <a href="https://forms.gle/UfDgy8PsAeQkqLX8A" style="text-decoration:none"><div style="font-size:20px;border:2px solid black;text-align:center;margin-bottom:10px;padding:10px;border-radius:15px;">Apply to participate!</div></a> -->
+
+[**Apply to participate**](https://forms.gle/UfDgy8PsAeQkqLX8A), and/or read on for more details!
+
 - [Growing New Scholarly Communication Infrastructures for Sharing, Reusing, and Synthesizing Knowledge](#growing-new-scholarly-communication-infrastructures-for-sharing-reusing-and-synthesizing-knowledge)
   - [Overview](#overview)
   - [Workshop Structure](#workshop-structure)
