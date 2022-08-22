@@ -4,7 +4,7 @@
 
 <!-- <a href="https://forms.gle/UfDgy8PsAeQkqLX8A" style="text-decoration:none"><div style="font-size:20px;border:2px solid black;text-align:center;margin-bottom:10px;padding:10px;border-radius:15px;">Apply to participate!</div></a> -->
 
-[**Apply to participate**](https://forms.gle/UfDgy8PsAeQkqLX8A), and/or read on for more details!
+[**Apply to participate**](https://forms.gle/UfDgy8PsAeQkqLX8A) by **September 22nd, 2022**, and/or read on for more details!
 
 - [Growing New Scholarly Communication Infrastructures for Sharing, Reusing, and Synthesizing Knowledge](#growing-new-scholarly-communication-infrastructures-for-sharing-reusing-and-synthesizing-knowledge)
   - [Overview](#overview)
@@ -12,7 +12,7 @@
     - [Submission and pre-workshop activities](#submission-and-pre-workshop-activities)
     - [Workshop Schedule](#workshop-schedule)
   - [Call for Participants](#call-for-participants)
-  - [Key Dates](#key-dates)
+  - [Key Dates and Logistical Information](#key-dates-and-logistical-information)
   - [Organizers](#organizers)
   - [Background](#background)
   - [References](#references)
@@ -75,12 +75,14 @@ Submissions will be accepted at the following [submission form](https://forms.gl
 
 These submissions will be considered by the organizers according to criteria of relevance for the core workshop themes, as well as balance across communities of research, tooling, and practice. Accepted submissions will then be curated into a shared github repository of materials. Prior to the workshop, participants will comment on and iterate on the ideas and resources in the repository. The materials in this repository will serve as important context and resources to fuel impactful collaborative work during the workshop.
 
-## Key Dates
+## Key Dates and Logistical Information
 
 - **September 22nd, 2022** - participant submission deadline
 - **September 29th, 2022** - notification of acceptance
 - **October 1st, 2022** - pre-workshop activities begin
 - **November 12-13, 2022** - workshop @CSCW
+
+We do not yet have firm numbers on cost, but we do know that accepted participants need to register for both the workshop and the full conference. The estimated early-bird fees (based on [last year's costs](https://cscw.acm.org/2021/registration/)) would be approximately \$120 for students, \$220 for ACM/SIG members, and \$270 for non-ACM/SIG members. If cost is a hardship, sponsorships and scholarships are available, thanks to generous funding [from Protocol Labs](https://protocol.ai/).
 
 ## Organizers
 
