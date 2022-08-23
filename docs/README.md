@@ -4,7 +4,7 @@
 
 <!-- <a href="https://forms.gle/UfDgy8PsAeQkqLX8A" style="text-decoration:none"><div style="font-size:20px;border:2px solid black;text-align:center;margin-bottom:10px;padding:10px;border-radius:15px;">Apply to participate!</div></a> -->
 
-[**Apply to participate**](https://forms.gle/UfDgy8PsAeQkqLX8A) by **September 22nd, 2022**, and/or read on for more details!
+[**Apply to participate**](https://forms.gle/UfDgy8PsAeQkqLX8A) by **September 30th, 2022**, and/or read on for more details!
 
 - [Growing New Scholarly Communication Infrastructures for Sharing, Reusing, and Synthesizing Knowledge](#growing-new-scholarly-communication-infrastructures-for-sharing-reusing-and-synthesizing-knowledge)
   - [Overview](#overview)
@@ -39,7 +39,7 @@ This all-virtual workshop will be structured around **synchronous and asynchrono
 
 ### Submission and pre-workshop activities
 
-Prospective participants will submit proposed materials by mid-September, and receive notifications by late September. Pre-workshop activities, including commenting and iterating on materials, as well as initial formation of working groups, in the github repository and over our hosted chat platform, will begin in the month of October.
+Prospective participants will submit proposed materials by late-September, and receive notifications by mid-October. Pre-workshop activities, including commenting and iterating on materials, as well as initial formation of working groups, in the github repository and over our hosted chat platform, will begin in the month leading up to the workshop date.
 
 ### Workshop Schedule
 
@@ -77,9 +77,9 @@ These submissions will be considered by the organizers according to criteria of 
 
 ## Key Dates and Logistical Information
 
-- **September 22nd, 2022** - participant submission deadline
-- **September 29th, 2022** - notification of acceptance
-- **October 1st, 2022** - pre-workshop activities begin
+- **September 30th, 2022** - participant submission deadline
+- **October 14th, 2022** - notification of acceptance
+- **October 15th, 2022** - pre-workshop activities begin
 - **November 12-13, 2022** - workshop @CSCW
 
 <!-- We do not yet have firm numbers on cost, but we do know that accepted participants need to register for both the workshop and the full conference. The estimated early-bird fees (based on [last year's costs](https://cscw.acm.org/2021/registration/)) would be approximately \$120 for students, \$220 for ACM/SIG members, and \$270 for non-ACM/SIG members. If cost is a hardship, sponsorships and scholarships are available, thanks to generous funding [from Protocol Labs](https://protocol.ai/). -->
