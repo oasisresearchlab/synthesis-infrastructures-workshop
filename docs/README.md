@@ -117,24 +117,19 @@ We aim to stimulate fresh progress by bringing these deep roots into conversatio
 
 ## References
 
-[^ackermanSharingKnowledgeExpertise2013]: Mark S. Ackerman, Juri Dachtera, Volkmar Pipek, and Volker Wulf. 2013. Sharing Knowledge and Expertise: The CSCW View of Knowledge
-Management. Computer Supported Cooperative Work (CSCW) 22, 4-6 (Aug. 2013), 531–573. https://doi.org/10.1007/s10606-013-9192-8
+[^ackermanSharingKnowledgeExpertise2013]: Mark S. Ackerman, Juri Dachtera, Volkmar Pipek, and Volker Wulf. 2013. Sharing Knowledge and Expertise: The CSCW View of Knowledge Management. Computer Supported Cooperative Work (CSCW) 22, 4-6 (Aug. 2013), 531–573. https://doi.org/10.1007/s10606-013-9192-8
 
-[^ackermanAnswerGardenMerging1996]: Mark S. Ackerman and David W. McDonald. 1996. Answer Garden 2: merging organizational memory with collaborative help. In Proceedings
-of the 1996 ACM conference on Computer supported cooperative work - CSCW ’96. ACM Press, Boston, Massachusetts, United States, 97–105. https://doi.org/10.1145/240080.240203 00471.
+[^ackermanAnswerGardenMerging1996]: Mark S. Ackerman and David W. McDonald. 1996. Answer Garden 2: merging organizational memory with collaborative help. In Proceedings of the 1996 ACM conference on Computer supported cooperative work - CSCW ’96. ACM Press, Boston, Massachusetts, United States, 97–105. https://doi.org/10.1145/240080.240203 00471.
 
 [^alton-leeTroubleshooterChecklistProspective1998]: Adrienne Alton-Lee. 1998. A Troubleshooter’s Checklist for Prospective Authors Derived from Reviewers’ Critical Feedback. Teaching and Teacher Education 14, 8 (1998), 887–90.
 
-[^avasthiExperimentBeginsArcadia2022]: P Avasthi and M. L. Hochstrasser. 2022. The experiment begins: Arcadia publishing 1.0. Arcadia Science (May 2022). https://doi.org/10.57844/arcadia-
-050a-q254 Publisher: Arcadia Science.
+[^avasthiExperimentBeginsArcadia2022]: P Avasthi and M. L. Hochstrasser. 2022. The experiment begins: Arcadia publishing 1.0. Arcadia Science (May 2022). https://doi.org/10.57844/arcadia-050a-q254 Publisher: Arcadia Science.
 
-[^borgePatternsTeamProcesses2012]: Marcela Borge, Craig H. Ganoe, Shin-I Shih, and John M. Carroll. 2012. Patterns of team processes and breakdowns in information analysis tasks. In
-Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work (CSCW ’12). Association for Computing Machinery, New York, NY, USA, 1105–1114. https://doi.org/10.1145/2145204.2145369
+[^borgePatternsTeamProcesses2012]: Marcela Borge, Craig H. Ganoe, Shin-I Shih, and John M. Carroll. 2012. Patterns of team processes and breakdowns in information analysis tasks. In Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work (CSCW ’12). Association for Computing Machinery, New York, NY, USA, 1105–1114. https://doi.org/10.1145/2145204.2145369
 
 [^bucurNanopublicationBasedSemanticPublishing2022]: Cristina-Iulia Bucur, Tobias Kuhn, Davide Ceolin, and Jacco van Ossenbruggen. 2022. Nanopublication-Based Semantic Publishing and Reviewing: A Field Study with Formalization Papers. arXiv:2203.01608 [cs] (March 2022). http://arxiv.org/abs/2203.01608 arXiv: 2203.01608.
 
-[^chanImprovingCrowdInnovation2016]: Joel Chan, Steven C. Dang, and Steven P. Dow. 2016. Improving crowd innovation with expert facilitation. In Proceedings of the ACM Conference on
-Computer-Supported Cooperative Work & Social Computing. https://doi.org/10.1145/2818048.2820023
+[^chanImprovingCrowdInnovation2016]: Joel Chan, Steven C. Dang, and Steven P. Dow. 2016. Improving crowd innovation with expert facilitation. In Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Social Computing. https://doi.org/10.1145/2818048.2820023
 
 [^craneInvisibleCollegesDiffusion1972]: Diana Crane. 1972. Invisible Colleges; Diffusion of Knowledge in Scientific Communities. Chicago: University of Chicago Press.
 
@@ -144,16 +139,13 @@ Computer-Supported Cooperative Work & Social Computing. https://doi.org/10.1145/
 
 [^ervinMotivatingAuthorsUpdate2008]: Ann-Margret Ervin. 2008. Motivating authors to update systematic reviews: practical strategies from a behavioural science perspective. Paediatric and perinatal epidemiology 22, 0 1 (Jan. 2008), 33–37. https://doi.org/10.1111/j.1365-3016.2007.00910.x
 
-[^fisherDistributedSensemakingImproving2012]: Kristie Fisher, Scott Counts, and Aniket Kittur. 2012. Distributed Sensemaking: Improving Sensemaking by Leveraging the Efforts of Previous
-Users. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’12). ACM, New York, NY, USA, 247–256. https://doi.org/10.1145/2207676.2207711
+[^fisherDistributedSensemakingImproving2012]: Kristie Fisher, Scott Counts, and Aniket Kittur. 2012. Distributed Sensemaking: Improving Sensemaking by Leveraging the Efforts of Previous Users. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’12). ACM, New York, NY, USA, 247–256. https://doi.org/10.1145/2207676.2207711
 
 [^flemingCochraneNonCochraneSystematic2013]: Padhraig S. Fleming, Jadbinder Seehra, Argy Polychronopoulou, Zbys Fedorowicz, and Nikolaos Pandis. 2013. Cochrane and non-Cochrane systematic reviews in leading orthodontic journals: a quality paradigm? European Journal of Orthodontics 35, 2 (April 2013), 244–248. https://doi.org/10.1093/ejo/cjs016 Publisher: Oxford Academic.
 
-[^goyalEffectsSensemakingTranslucence2016]: Nitesh Goyal and Susan R. Fussell. 2016. Effects of Sensemaking Translucence on Distributed Collaborative Analysis. In Proceedings of the
-19th ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW ’16). ACM, New York, NY, USA, 288–302. https://doi.org/10.1145/2818048.2820071
+[^goyalEffectsSensemakingTranslucence2016]: Nitesh Goyal and Susan R. Fussell. 2016. Effects of Sensemaking Translucence on Distributed Collaborative Analysis. In Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW ’16). ACM, New York, NY, USA, 288–302. https://doi.org/10.1145/2818048.2820071
 
-[^hahnKnowledgeAcceleratorBig2016]: Nathan Hahn, Joseph Chang, Ji Eun Kim, and Aniket Kittur. 2016. The Knowledge Accelerator: Big Picture Thinking in Small Pieces. In Proceedings
-of the 2016 CHI Conference on Human Factors in Computing Systems (CHI ’16). ACM, New York, NY, USA, 2258–2270. https://doi.org/10.1145/2858036.2858364
+[^hahnKnowledgeAcceleratorBig2016]: Nathan Hahn, Joseph Chang, Ji Eun Kim, and Aniket Kittur. 2016. The Knowledge Accelerator: Big Picture Thinking in Small Pieces. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI ’16). ACM, New York, NY, USA, 2258–2270. https://doi.org/10.1145/2858036.2858364
 
 [^holbrookInvestigatingPhDThesis2004]: Allyson Holbrook, Sid Bourke, Terence Lovat, and Kerry Dally. 2004. Investigating PhD thesis examination reports. International Journal of Educational Research 41, 2 (Jan. 2004), 98–120. https://doi.org/10.1016/j.ijer.2005.04.008
 
@@ -163,35 +155,29 @@ of the 2016 CHI Conference on Human Factors in Computing Systems (CHI ’16). AC
 
 [^kuhnGenuineSemanticPublishing2017]: Tobias Kuhn and Michel Dumontier. 2017. Genuine semantic publishing. Data Science 1, 1-2 (Jan. 2017), 139–154. https://doi.org/10.3233/DS-170010
 
-[^liItGoodBe2015]: Guo Li, Haiyi Zhu, Tun Lu, Xianghua Ding, and Ning Gu. 2015. Is It Good to Be Like Wikipedia?: Exploring the Trade-offs of Introducing Collaborative
-Editing Model to Q&A Sites. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW ’15). ACM, New York, NY, USA, 1080–1091. https://doi.org/10.1145/2675133.2675155
+[^liItGoodBe2015]: Guo Li, Haiyi Zhu, Tun Lu, Xianghua Ding, and Ning Gu. 2015. Is It Good to Be Like Wikipedia?: Exploring the Trade-offs of Introducing Collaborative Editing Model to Q&A Sites. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW ’15). ACM, New York, NY, USA, 1080–1091. https://doi.org/10.1145/2675133.2675155
 
 [^lovittsMakingImplicitExplicit2007]: Barbara E. Lovitts. 2007. Making the Implicit Explicit: Creating Performance Expectations for the Dissertation. Stylus Publishing, Sterling, Va.
 
-[^mcphetresDecadeTheoryReflected2020]: Jonathon McPhetres, Nihan Albayrak-Aydemir, Ana Barbosa Mendes, Elvina C. Chow, Patricio Gonzalez-Marquez, Erin Loukras, Annika Maus,
-Aoife O’Mahony, Christina Pomareda, Maximilian Primbs, Shalaine Sackman, Conor Smithson, and Kirill Volodko. 2020. A decade of theory as reflected in Psychological Science (2009-2019). Technical Report. PsyArXiv. https://doi.org/10.31234/osf.io/hs5nx
+[^mcphetresDecadeTheoryReflected2020]: Jonathon McPhetres, Nihan Albayrak-Aydemir, Ana Barbosa Mendes, Elvina C. Chow, Patricio Gonzalez-Marquez, Erin Loukras, Annika Maus, Aoife O’Mahony, Christina Pomareda, Maximilian Primbs, Shalaine Sackman, Conor Smithson, and Kirill Volodko. 2020. A decade of theory as reflected in Psychological Science (2009-2019). Technical Report. PsyArXiv. https://doi.org/10.31234/osf.io/hs5nx
 
 [^menzelPlannedUnplannedScientific1959]: Herbert Menzel. 1959. Planned and unplanned scientific communication (Proceedings of the international conference on scientific information).
 
-[^randallDistributedOntologyBuilding2011]: Dave Randall, Rob Procter, Yuwei Lin, Meik Poschen, Wes Sharrock, and Robert Stevens. 2011. Distributed ontology building as practical work.
-International Journal of Human-Computer Studies 69, 4 (April 2011), 220–233. https://doi.org/10.1016/j.ijhcs.2010.12.011
+[^randallDistributedOntologyBuilding2011]: Dave Randall, Rob Procter, Yuwei Lin, Meik Poschen, Wes Sharrock, and Robert Stevens. 2011. Distributed ontology building as practical work. International Journal of Human-Computer Studies 69, 4 (April 2011), 220–233. https://doi.org/10.1016/j.ijhcs.2010.12.011
 
 [^ribesSociotechnicalStudiesCyberinfrastructure2010]: David Ribes and Charlotte P. Lee. 2010. Sociotechnical Studies of Cyberinfrastructure and e-Research: Current Themes and Future Trajectories. Computer Supported Cooperative Work (CSCW) 19, 3 (Aug. 2010), 231–244. https://doi.org/10.1007/s10606-010-9120-0
 
 [^shojaniaHowQuicklySystematic2007]: Kaveh G. Shojania, Margaret Sampson, Mohammed T. Ansari, Jun Ji, Steve Doucette, and David Moher. 2007. How Quickly Do Systematic Reviews Go Out of Date? A Survival Analysis. Annals of Internal Medicine 147, 4 (Aug. 2007), 224. https://doi.org/10.7326/0003-4819-147-4-200708210-00179
 
-[^shumScholOntoOntologybasedDigital2000]: Simon Buckingham Shum, Enrico Motta, and John Domingue. 2000. ScholOnto: an ontology-based digital library server for research documents and
-discourse. International Journal on Digital Libraries 3, 3 (Oct. 2000), 237–248. https://doi.org/10.1007/s007990000034
+[^shumScholOntoOntologybasedDigital2000]: Simon Buckingham Shum, Enrico Motta, and John Domingue. 2000. ScholOnto: an ontology-based digital library server for research documents and discourse. International Journal on Digital Libraries 3, 3 (Oct. 2000), 237–248. https://doi.org/10.1007/s007990000034
 
 [^siangliulueIdeaHoundSelfsustainableIdea2016]: Pao Siangliulue, Joel Chan, Bernd Huber, Steven P. Dow, and Krzysztof Z. Gajos. 2016. IdeaHound: Self-sustainable Idea Generation in Creative Online Communities. In Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion (CSCW ’16 Companion). ACM, New York, NY, USA, 98–101. https://doi.org/10.1145/2818052.2874335
 
 [^starStepsEcologyInfrastructure1996]: Susan Leigh Star and Karen Ruhleder. 1996. Steps toward an ecology of infrastructure: Design and access for large information spaces. Information systems research 7, 1 (1996), 111–134. https://pubsonline.informs.org/doi/abs/10.1287/isre.7.1.111 03070
 
-[^thomerTransformingTaxonomicInterfaces2018]: Andrea K. Thomer, Michael Bernard Twidale, and Matthew J. Yoder. 2018. Transforming Taxonomic Interfaces: "Arm?s Length" Cooperative
-Work and the Maintenance of a Long-lived Classification System. Proceedings of the ACM on Human-Computer Interaction 2, CSCW (Nov. 2018), 173:1–173:23. https://doi.org/10.1145/3274442
+[^thomerTransformingTaxonomicInterfaces2018]: Andrea K. Thomer, Michael Bernard Twidale, and Matthew J. Yoder. 2018. Transforming Taxonomic Interfaces: "Arm?s Length" Cooperative Work and the Maintenance of a Long-lived Classification System. Proceedings of the ACM on Human-Computer Interaction 2, CSCW (Nov. 2018), 173:1–173:23. https://doi.org/10.1145/3274442
 
-[^xiaoSensemakingChemtrailConspiracy2021]: Sijia Xiao, Coye Cheshire, and Amy Bruckman. 2021. Sensemaking and the Chemtrail Conspiracy on the Internet: Insights from Believers and
-Ex-believers. Proceedings of the ACM on Human-Computer Interaction 5, CSCW2 (Oct. 2021), 1–28. https://doi.org/10.1145/3479598
+[^xiaoSensemakingChemtrailConspiracy2021]: Sijia Xiao, Coye Cheshire, and Amy Bruckman. 2021. Sensemaking and the Chemtrail Conspiracy on the Internet: Insights from Believers and Ex-believers. Proceedings of the ACM on Human-Computer Interaction 5, CSCW2 (Oct. 2021), 1–28. https://doi.org/10.1145/3479598
 
 [^youngInfrastructuringCrossDisciplinarySynthetic2017]: Alyson L. Young and Wayne G. Lutters. 2017. Infrastructuring for Cross-Disciplinary Synthetic Science: Meta-Study Research in Land System Science. Computer Supported Cooperative Work (CSCW) 26, 1 (April 2017), 165–203. https://doi.org/10.1007/s10606-017-9267-z
 
