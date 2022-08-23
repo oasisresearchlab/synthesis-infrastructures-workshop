@@ -1,6 +1,6 @@
 # Growing New Scholarly Communication Infrastructures for Sharing, Reusing, and Synthesizing Knowledge
 
-*An all-virtual workshop at [CSCW 2022](https://cscw.acm.org/2022/)*
+*An all-virtual workshop at [CSCW 2022](https://cscw.acm.org/2022/) (Nov 12-13, 2022)*
 
 <!-- <a href="https://forms.gle/UfDgy8PsAeQkqLX8A" style="text-decoration:none"><div style="font-size:20px;border:2px solid black;text-align:center;margin-bottom:10px;padding:10px;border-radius:15px;">Apply to participate!</div></a> -->
 
