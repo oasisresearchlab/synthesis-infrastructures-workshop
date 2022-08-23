@@ -82,9 +82,11 @@ These submissions will be considered by the organizers according to criteria of 
 - **October 1st, 2022** - pre-workshop activities begin
 - **November 12-13, 2022** - workshop @CSCW
 
-We do not yet have firm numbers on cost, but we do know that accepted participants need to register for both the workshop and the full conference. The estimated early-bird fees (based on [last year's costs](https://cscw.acm.org/2021/registration/)) would be approximately \$120 for students, \$220 for ACM/SIG members, and \$270 for non-ACM/SIG members. If cost is a hardship, sponsorships and scholarships are available, thanks to generous funding [from Protocol Labs](https://protocol.ai/).
+<!-- We do not yet have firm numbers on cost, but we do know that accepted participants need to register for both the workshop and the full conference. The estimated early-bird fees (based on [last year's costs](https://cscw.acm.org/2021/registration/)) would be approximately \$120 for students, \$220 for ACM/SIG members, and \$270 for non-ACM/SIG members. If cost is a hardship, sponsorships and scholarships are available, thanks to generous funding [from Protocol Labs](https://protocol.ai/). -->
 
 ## Organizers
+
+*Please direct any questions to joelchan@umd.edu*
 
 **[Joel Chan](http://joelchan.me/)** is an Assistant Professor in the University of Maryland’s College of Information Studies (iSchool) and Human-Computer Interaction Lab (HCIL). His research investigates systems that support creative knowledge work, such as scientific discovery and innovative design. His recent work focuses on studies of scientific thinking (including their synthesis practices), and tools for searching and synthesizing scientific literature. His research has received funding from the National Science Foundation, the Office of Naval Research, the Institute for Museum and Library Sciences, Adobe Research, and Protocol Labs. 
 
